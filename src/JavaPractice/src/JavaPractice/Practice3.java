@@ -1,4 +1,4 @@
-package tsts;
+package JavaPractice;
 
 public class Practice3 {
 

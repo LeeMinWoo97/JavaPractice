@@ -1,4 +1,4 @@
-package tsts;
+package JavaPractice;
 
 import java.util.Arrays;
 import java.util.Scanner;
